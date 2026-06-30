@@ -2,7 +2,7 @@
 """
 Created on Sat Jul 22 18:28:20 2023
 
-@author: Ghasemi
+@author: sarvenaz seyyedein
 """
 def main():
     # Get the totalbet from the user
